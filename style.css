@@ -1,0 +1,40 @@
+body{
+    background-size: cover;
+}
+
+.heading{
+    width: 100%;
+    margin: 0px;
+    font-size: bold;
+}
+
+.input_class{
+    margin: 5px;
+    border-radius: 5px;
+    width: 20%;
+    color: black;
+    background-color: white;
+    border: 4px grey;
+    box-shadow: 2px 2px 2px grey;
+}
+
+.object_name{
+    font-weight: bold;
+    font-size: 15px;
+}
+
+canvas{
+    border-radius: 10px;
+    background-color: white;
+    box-shadow: 7px 7px 7px white;
+}
+
+p{
+    color: black;
+    margin-bottom: 0px;
+    font-size: small;
+}
+
+#start_button_id{
+    margin-bottom: 100px;
+}
